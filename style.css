@@ -73,7 +73,7 @@ body{
     text-align: left;
 }
 .col img{
-    width: 40px;
+    widht: 40px;
     margin-right: 10px;
 }
 .humidity, .wind{
